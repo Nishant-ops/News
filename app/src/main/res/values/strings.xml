@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">news_api</string>
+    <string name="no_internet">no_internet</string>
+    <string name="no_internet_text">no_internet</string>
+    <string name="setting_query_Search" translatable="false">Query_key</string>
+    <string name="setting_section_search" translatable="false">section_key</string>
+</resources>

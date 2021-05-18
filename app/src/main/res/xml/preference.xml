@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference
+    android:title="Query"
+    android:inputType="text"
+    android:defaultValue="google"
+    android:selectAllOnFocus="true"
+    android:key="@string/setting_query_Search"
+    />
+<EditTextPreference
+    android:title="section"
+    android:inputType="text"
+    android:defaultValue="technology"
+    android:selectAllOnFocus="true"
+    android:key="@string/setting_section_search"
+    />
+</PreferenceScreen>
